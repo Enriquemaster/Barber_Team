@@ -19,7 +19,6 @@
     <div class="flex flex-col md:flex-row justify-center mt-20 mb-20 mx-auto">
 
             <div class="text-center  mx-12">
-                <h1 class="text-white text-center Bodoni text-2xl md:text-5xl"> THE BARBER HOUSE </h1><br>
                 <p class=" text-white text-justify md:text-justify montserrat md:px-6 md:text-2xl">“Revitaliza tu vida, renueva tu estilo con un cambio de look”.</p>
                 
             <div class=" w-11/12 mt-6 px-6 py-4 dark:bg-black  shadow-md overflow-hidden sm:rounded-lg mx-auto">
